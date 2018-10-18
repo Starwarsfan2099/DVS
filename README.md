@@ -14,10 +14,10 @@ Instructions
  *  Usage:
  *    `dataPrint("Verbose mode is on if you see this");`
  
-(This returns `Verbose mode is on if you see this` through serial)
+     (This returns `Verbose mode is on if you see this` through serial)
 
  *    `formatPrint("This value is:", 3);`
  
-(This retruns `This value is: 3` through serial)
+     (This retruns `This value is: 3` through serial)
 
 Enjoy!!!
